@@ -17,6 +17,7 @@ Repository for ML II, Assignment 1, Ensemble Learning
 1.7 PCA - Ana
 
 1.8 Comparacion - Mariajo
+- Muy importante : dataset desbalanceado. Mirar balanced accuracy, F-score etc
 
 2.1 Validacion - Marta
 
