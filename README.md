@@ -3,8 +3,11 @@ Repository for ML II, Assignment 1, Ensemble Learning
 
 ## Index
 1.1 Análisis Exploratorio - Blanca
+- Cambiar variables pairplot
+- Explicar cualitativamente las correlaciones
 
 1.2 Simple Tree - Blanca
+- Usar balanced accuracy, sensitivity, specificity y F-1 score
 
 1.3 Bagged Tree - Ana
 
